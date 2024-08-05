@@ -135,7 +135,7 @@
             <configuration>
                 <outputDirectory>${project.build.directory}/surefire-reports</outputDirectory>
                 <suitXmlFiles>
-					<suitXmlFile>testng.xml</suitXmlFile>	
+					<suitXmlFile>src/test/resources/testng.xml</suitXmlFile>	
 					</suitXmlFiles>
             
             </configuration>
